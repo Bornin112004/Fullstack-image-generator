@@ -113,8 +113,7 @@ Before running this application, make sure you have the following installed:
 - `GET /api/user/profile` - Get user profile
 
 ### Image Generation
-- `POST /api/image/generate` - Generate image from text
-- `GET /api/image/history` - Get user's image history
+- `POST /api/image/generate-image` - Generate image from text
 
 ## Features in Detail
 
@@ -126,11 +125,7 @@ Before running this application, make sure you have the following installed:
 ### Image Generation
 - Text-to-image generation using ClipDrop API
 - Credit-based system
-- Image history tracking
 
-### Payment Integration
-- Razorpay integration for credit purchases
-- Secure payment processing
 
 ## Contributing
 
